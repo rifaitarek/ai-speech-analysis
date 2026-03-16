@@ -1,0 +1,7 @@
+librosa==0.10.1
+numpy==1.26.4
+hmmlearn==0.3.0
+gTTS==2.5.1
+soundfile==0.12.1
+matplotlib==3.8.3
+google-generativeai
